@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4af6c9b2-f019-4f04-a7ef-2991a28ea23f/resourceGroups/azurepythondemo/providers/Microsoft.Web/sites/itannapythonflask",
+    "appService.deploySubpath": "."
+}
